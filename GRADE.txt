@@ -1,0 +1,13 @@
+Team Points:
+  18/20 points for a working platformer with a filled out README
+  -a couple things don't quite work (like the sprite flipping or audio) and there could be more detail in the README, but everything else looks good.
+  0/20 points for having enough sizable changes (4 changes if in a group of 1, 5 changes if in a group of 2, 6 changes if in a group of 3, 8 changes if in a group of 4)
+  -I'm not seeing anything beyond the scope of the tutorial here, so just let me know if I missed something
+  0/10 points for following the PR process correctly, including reviewing your teammates’ code (not required for solo projects, instead points will come from having enough changes)
+  -No PR's, only 1 big commit, and not enough new features
+
+Individual Points:
+  10/10 points for contributing features to your game (no hard carries)
+  2/5 points for thoughtful reflection added in the README
+  -I want to read more about what you did and what was difficult, more than just one or two sentences.
+  2/5 points for contributing to code reviews in PR’s (not required for solo projects, instead points will come from your reflection)
